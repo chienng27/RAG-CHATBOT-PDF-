@@ -1,6 +1,9 @@
 # RAG Chatbot with PDF 
+![Mô tả ảnh](DEMO/workflow.png)
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot designed to process Vietnamese PDF documents, extract both text and tables, and answer user queries using Google Gemini AI and Qdrant vector database.
+
+
 
 ## Key Features
 
