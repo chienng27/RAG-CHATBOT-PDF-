@@ -24,6 +24,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot designed to proce
 ## Demo Video
 
 [▶️ WATCH VIDEO demo](DEMO/DEMOCLIPp.mp4)
+![Mô tả ảnh](DEMO/image.png)
 
 ## Folder Structure
 
