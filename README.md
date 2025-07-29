@@ -23,7 +23,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot designed to proce
 
 ## Demo Video
 
-[![Watch the demo](https://www.shutterstock.com/image-illustration/rag-acronym-retrieval-augmented-generation-260nw-2553656059.jpg)](https://drive.google.com/file/d/1DNU-iUmR-ppyO5mD3R34jR05TWrZAhmz/view?usp=sharing)
+[▶️ WATCH VIDEO demo](DEMO/DEMOCLIPp.mp4)
 
 ## Folder Structure
 
